@@ -2,7 +2,13 @@
 
 > Sample repository for developing libraries for Vue 3 using Vite.
 
-- 
+**Features**
+
+- Optimized environment for Vue 3 library
+  - Support Component / Plugin
+- Support CommonJS & ESModule
+- Support TypeScript
+- Test Environment with Jest and Vue Test Utils
 
 ## Setup environment
 
